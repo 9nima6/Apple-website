@@ -1,0 +1,19 @@
+*{
+    padding: 0;
+    margin: 0;
+    border: 0;
+    outline: 0;
+    box-sizing: border-box !important;
+}
+@font-face {
+    font-family: bold;
+    src: url(../fonts/sf-pro-text_bold.woff2);
+}
+@font-face {
+    font-family: semiBold;
+    src: url(../fonts/sf-pro-text_semibold.woff2);
+}
+@font-face {
+    font-family: regular;
+    src: url(../fonts/sf-pro-text_regular.woff2);
+}

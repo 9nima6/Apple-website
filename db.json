@@ -1,0 +1,668 @@
+{
+  "menu": [
+    {
+      "id": 1,
+      "title": "Store",
+      "submenu": {
+        "ulfirst": [
+          { "id": 1, "title": "Shop" },
+          { "id": 2, "title": "Shop The Latest" },
+          { "id": 3, "title": "Mac" },
+          { "id": 4, "title": "iPad" },
+          { "id": 5, "title": "iPhone" },
+          { "id": 6, "title": "Apple Watch" },
+          { "id": 7, "title": "Accessories" }
+        ],
+        "ulsecond": [
+          { "id": 1, "title": "Quick Links" },
+          { "id": 2, "title": "Find a Store" },
+          { "id": 3, "title": "Order Status" },
+          { "id": 4, "title": "Apple Trade In" },
+          { "id": 5, "title": "Financing" },
+          { "id": 6, "title": "College Student Offer" }
+        ],
+        "ulthird": [
+          { "id": 1, "title": "Shop Special Stores" },
+          { "id": 2, "title": "Certified Refurbished" },
+          { "id": 3, "title": "Education" },
+          { "id": 4, "title": "Business" },
+          { "id": 5, "title": "Veterance and Military" },
+          { "id": 6, "title": "Government" }
+        ]
+      }
+    },
+    {
+      "id": 2,
+      "title": "Mac",
+      "submenu": {
+        "ulfirst": [
+          { "id": 1, "title": "Explore Intertainment" },
+          { "id": 2, "title": "Explore Intertainment" },
+          { "id": 3, "title": "Apple One" },
+          { "id": 4, "title": "Apple TV+" },
+          { "id": 5, "title": "Apple Music" },
+          { "id": 6, "title": "Apple Arcade" },
+          { "id": 7, "title": "Apple Fitness+" },
+          { "id": 8, "title": "Apple News+" },
+          { "id": 9, "title": "Apple Podcasts" },
+          { "id": 10, "title": "Apple Books" },
+          { "id": 11, "title": "Apple Srore" }
+        ],
+        "ulsecond": [
+          { "id": 1, "title": "Support" },
+          { "id": 2, "title": "Apple TV+ Support" },
+          { "id": 3, "title": "Apple Music Support" }
+        ],
+        "ulthird": []
+      }
+    },
+    {
+      "id": 3,
+      "title": "iPad",
+      "submenu": {
+        "ulfirst": [
+          { "id": 1, "title": "Shop" },
+          { "id": 2, "title": "Shop The Latest" },
+          { "id": 3, "title": "Mac" },
+          { "id": 4, "title": "iPad" },
+          { "id": 5, "title": "iPhone" },
+          { "id": 6, "title": "Apple Watch" },
+          { "id": 7, "title": "Accessories" }
+        ],
+        "ulsecond": [
+          { "id": 1, "title": "Quick Links" },
+          { "id": 2, "title": "Find a Store" },
+          { "id": 3, "title": "Order Status" },
+          { "id": 4, "title": "Apple Trade In" },
+          { "id": 5, "title": "Financing" },
+          { "id": 6, "title": "College Student Offer" }
+        ],
+        "ulthird": [
+          { "id": 1, "title": "Shop Special Stores" },
+          { "id": 2, "title": "Certified Refurbished" },
+          { "id": 3, "title": "Education" },
+          { "id": 4, "title": "Business" },
+          { "id": 5, "title": "Veterance and Military" },
+          { "id": 6, "title": "Government" }
+        ]
+      }
+    },
+    {
+      "id": 4,
+      "title": "iPhone",
+      "submenu": {
+        "ulfirst": [
+          { "id": 1, "title": "Explore Intertainment" },
+          { "id": 2, "title": "Explore Intertainment" },
+          { "id": 3, "title": "Apple One" },
+          { "id": 4, "title": "Apple TV+" },
+          { "id": 5, "title": "Apple Music" },
+          { "id": 6, "title": "Apple Arcade" },
+          { "id": 7, "title": "Apple Fitness+" },
+          { "id": 8, "title": "Apple News+" },
+          { "id": 9, "title": "Apple Podcasts" },
+          { "id": 10, "title": "Apple Books" },
+          { "id": 11, "title": "Apple Srore" }
+        ],
+        "ulsecond": [
+          { "id": 1, "title": "Support" },
+          { "id": 2, "title": "Apple TV+ Support" },
+          { "id": 3, "title": "Apple Music Support" }
+        ],
+        "ulthird": []
+      }
+    },
+    {
+      "id": 5,
+      "title": "Watch",
+      "submenu": {
+        "ulfirst": [
+          { "id": 1, "title": "Shop" },
+          { "id": 2, "title": "Shop The Latest" },
+          { "id": 3, "title": "Mac" },
+          { "id": 4, "title": "iPad" },
+          { "id": 5, "title": "iPhone" },
+          { "id": 6, "title": "Apple Watch" },
+          { "id": 7, "title": "Accessories" }
+        ],
+        "ulsecond": [
+          { "id": 1, "title": "Quick Links" },
+          { "id": 2, "title": "Find a Store" },
+          { "id": 3, "title": "Order Status" },
+          { "id": 4, "title": "Apple Trade In" },
+          { "id": 5, "title": "Financing" },
+          { "id": 6, "title": "College Student Offer" }
+        ],
+        "ulthird": [
+          { "id": 1, "title": "Shop Special Stores" },
+          { "id": 2, "title": "Certified Refurbished" },
+          { "id": 3, "title": "Education" },
+          { "id": 4, "title": "Business" },
+          { "id": 5, "title": "Veterance and Military" },
+          { "id": 6, "title": "Government" }
+        ]
+      }
+    },
+    {
+      "id": 6,
+      "title": "Vision",
+      "submenu": {
+        "ulfirst": [],
+        "ulsecond": [],
+        "ulthird": []
+      }
+    },
+    {
+      "id": 7,
+      "title": "AirPods",
+      "submenu": {
+        "ulfirst": [
+          { "id": 1, "title": "Explore Intertainment" },
+          { "id": 2, "title": "Explore Intertainment" },
+          { "id": 3, "title": "Apple One" },
+          { "id": 4, "title": "Apple TV+" },
+          { "id": 5, "title": "Apple Music" },
+          { "id": 6, "title": "Apple Arcade" },
+          { "id": 7, "title": "Apple Fitness+" },
+          { "id": 8, "title": "Apple News+" },
+          { "id": 9, "title": "Apple Podcasts" },
+          { "id": 10, "title": "Apple Books" },
+          { "id": 11, "title": "Apple Srore" }
+        ],
+        "ulsecond": [
+          { "id": 1, "title": "Support" },
+          { "id": 2, "title": "Apple TV+ Support" },
+          { "id": 3, "title": "Apple Music Support" }
+        ],
+        "ulthird": []
+      }
+    },
+    {
+      "id": 8,
+      "title": "TV & Home",
+      "submenu": {
+        "ulfirst": [
+          { "id": 1, "title": "Shop" },
+          { "id": 2, "title": "Shop The Latest" },
+          { "id": 3, "title": "Mac" },
+          { "id": 4, "title": "iPad" },
+          { "id": 5, "title": "iPhone" },
+          { "id": 6, "title": "Apple Watch" },
+          { "id": 7, "title": "Accessories" }
+        ],
+        "ulsecond": [
+          { "id": 1, "title": "Quick Links" },
+          { "id": 2, "title": "Find a Store" },
+          { "id": 3, "title": "Order Status" },
+          { "id": 4, "title": "Apple Trade In" },
+          { "id": 5, "title": "Financing" },
+          { "id": 6, "title": "College Student Offer" }
+        ],
+        "ulthird": [
+          { "id": 1, "title": "Shop Special Stores" },
+          { "id": 2, "title": "Certified Refurbished" },
+          { "id": 3, "title": "Education" },
+          { "id": 4, "title": "Business" },
+          { "id": 5, "title": "Veterance and Military" },
+          { "id": 6, "title": "Government" }
+        ]
+      }
+    },
+    {
+      "id": 9,
+      "title": "Entertainment",
+      "submenu": {
+        "ulfirst": [
+          { "id": 1, "title": "Explore Intertainment" },
+          { "id": 2, "title": "Explore Intertainment" },
+          { "id": 3, "title": "Apple One" },
+          { "id": 4, "title": "Apple TV+" },
+          { "id": 5, "title": "Apple Music" },
+          { "id": 6, "title": "Apple Arcade" },
+          { "id": 7, "title": "Apple Fitness+" },
+          { "id": 8, "title": "Apple News+" },
+          { "id": 9, "title": "Apple Podcasts" },
+          { "id": 10, "title": "Apple Books" },
+          { "id": 11, "title": "Apple Srore" }
+        ],
+        "ulsecond": [
+          { "id": 1, "title": "Support" },
+          { "id": 2, "title": "Apple TV+ Support" },
+          { "id": 3, "title": "Apple Music Support" }
+        ],
+        "ulthird": []
+      }
+    },
+    {
+      "id": 10,
+      "title": "Accessories",
+      "submenu": {
+        "ulfirst": [
+          { "id": 1, "title": "Shop" },
+          { "id": 2, "title": "Shop The Latest" },
+          { "id": 3, "title": "Mac" },
+          { "id": 4, "title": "iPad" },
+          { "id": 5, "title": "iPhone" },
+          { "id": 6, "title": "Apple Watch" },
+          { "id": 7, "title": "Accessories" }
+        ],
+        "ulsecond": [
+          { "id": 1, "title": "Quick Links" },
+          { "id": 2, "title": "Find a Store" },
+          { "id": 3, "title": "Order Status" },
+          { "id": 4, "title": "Apple Trade In" },
+          { "id": 5, "title": "Financing" },
+          { "id": 6, "title": "College Student Offer" }
+        ],
+        "ulthird": [
+          { "id": 1, "title": "Shop Special Stores" },
+          { "id": 2, "title": "Certified Refurbished" },
+          { "id": 3, "title": "Education" },
+          { "id": 4, "title": "Business" },
+          { "id": 5, "title": "Veterance and Military" },
+          { "id": 6, "title": "Government" }
+        ]
+      }
+    },
+    {
+      "id": 11,
+      "title": "Support",
+      "submenu": {
+        "ulfirst": [
+          { "id": 1, "title": "Explore Intertainment" },
+          { "id": 2, "title": "Explore Intertainment" },
+          { "id": 3, "title": "Apple One" },
+          { "id": 4, "title": "Apple TV+" },
+          { "id": 5, "title": "Apple Music" },
+          { "id": 6, "title": "Apple Arcade" },
+          { "id": 7, "title": "Apple Fitness+" },
+          { "id": 8, "title": "Apple News+" },
+          { "id": 9, "title": "Apple Podcasts" },
+          { "id": 10, "title": "Apple Books" },
+          { "id": 11, "title": "Apple Srore" }
+        ],
+        "ulsecond": [
+          { "id": 1, "title": "Support" },
+          { "id": 2, "title": "Apple TV+ Support" },
+          { "id": 3, "title": "Apple Music Support" }
+        ],
+        "ulthird": []
+      }
+    }
+  ],
+  "firstproducts": [
+    {
+      "id": 1,
+      "image": "./images/1.jpg",
+      "alt": "1",
+      "h1": "iPhone 15 Pro",
+      "p": "Titanium. So strong. So light. So Pro",
+      "a1": "Learn more >",
+      "a2": "Buy >"
+    },
+    {
+      "id": 2,
+      "image": "./images/2.jpg",
+      "alt": "2",
+      "h1": "iPhone 15",
+      "p": "New camera. New design. newphoria.",
+      "a1": "Learn more >",
+      "a2": "Buy >"
+    },
+    {
+      "id": 3,
+      "image": "./images/3.jpg",
+      "alt": "3",
+      "h1": "WATCH",
+      "p": "Smarter. Brighter. Mightier",
+      "a1": "Learn more >",
+      "a2": "Buy >"
+    }
+  ],
+  "gridproducts": [
+    {
+      "id": 1,
+      "image": "./images/2.1.jpg",
+      "alt": "1",
+      "h1": "iPad Pro",
+      "p1": "Supercharged By M2",
+      "p2": "",
+      "a1": "Learn more >",
+      "a2": "Buy >"
+    },
+    {
+      "id": 2,
+      "image": "./images/2.2.jpg",
+      "alt": "2",
+      "h1": "Vision Pro",
+      "p1": "Welcome to the era of spatial computing",
+      "p2": "Available early next year in the U.S.",
+      "a1": "Learn more >",
+      "a2": ""
+    },
+    {
+      "id": 3,
+      "image": "./images/2.3.jpg",
+      "alt": "3",
+      "h1": "MacBook Air 15",
+      "p1": "Impressivly big. Impossibly thin.",
+      "p2": "",
+      "a1": "Learn more >",
+      "a2": "Buy >"
+    },
+    {
+      "id": 4,
+      "image": "./images/2.4.jpg",
+      "alt": "4",
+      "h1": "AirPods Pro",
+      "p1": "Adaptive Audio, Now playing",
+      "p2": "",
+      "a1": "Learn more >",
+      "a2": "Buy >"
+    },
+    {
+      "id": 5,
+      "image": "./images/2.5.jpg",
+      "alt": "5",
+      "h1": "Trade In ",
+      "p1": "Get $200-$650 in credit when",
+      "p2": "you trade in iPhone 11 or higher.",
+      "a1": "See what your device is worth >",
+      "a2": ""
+    },
+    {
+      "id": 6,
+      "image": "./images/2.6.jpg",
+      "alt": "6",
+      "h1": "Card",
+      "p1": "Get up to %3 Daily Cash back",
+      "p2": "with every purchase",
+      "a1": "Learn more >",
+      "a2": "Apply now >"
+    }
+  ],
+  "slider": [
+    {
+      "id": 1,
+      "image": "./images/s1.jpg",
+      "alt": "1",
+      "butt": "Preview now",
+      "h1": "Crime.",
+      "p": " Coming to theaters October 20."
+    },
+    {
+      "id": 2,
+      "image": "./images/s2.jpg",
+      "alt": "2",
+      "butt": "Straem now",
+      "h1": "Comedy.",
+      "p": " Talent is relative."
+    },
+    {
+      "id": 3,
+      "image": "./images/s3.jpg",
+      "alt": "3",
+      "butt": "Straem now",
+      "h1": "Drama.",
+      "p": " Change is on the air."
+    },
+    {
+      "id": 4,
+      "image": "./images/s4.jpg",
+      "alt": "4",
+      "butt": "Straem now",
+      "h1": "Documentary.",
+      "p": " The icons tell their own stories."
+    },
+    {
+      "id": 5,
+      "image": "./images/s5.jpg",
+      "alt": "5",
+      "butt": "Straem now",
+      "h1": "Crime.",
+      "p": "Coming to theaters October 20."
+    },
+    {
+      "id": 6,
+      "image": "./images/s6.jpg",
+      "alt": "6",
+      "butt": "Straem now",
+      "h1": "Comedy.",
+      "p": " Talent is relative."
+    },
+    {
+      "id": 7,
+      "image": "./images/s7.jpg",
+      "alt": "7",
+      "butt": "Straem now",
+      "h1": "Drama.",
+      "p": " Change is on the air."
+    },
+    {
+      "id": 8,
+      "image": "./images/s8.jpg",
+      "alt": "8",
+      "butt": "Straem now",
+      "h1": "Documentary.",
+      "p": " The icons tell their own stories."
+    },
+    {
+      "id": 9,
+      "image": "./images/s9.jpg",
+      "alt": "9",
+      "butt": "Straem now",
+      "h1": "Crime.",
+      "p": "Coming to theaters October 20."
+    },
+    {
+      "id": 10,
+      "image": "./images/s10.jpg",
+      "alt": "10",
+      "butt": "Straem now",
+      "h1": "Comedy.",
+      "p": " Talent is relative."
+    },
+    {
+      "id": 11,
+      "image": "./images/s11.jpg",
+      "alt": "11",
+      "butt": "Straem now",
+      "h1": "Drama.",
+      "p": " Change is on the air."
+    }
+  ],
+  "footertext": [
+    {
+      "id": 1,
+      "p": "1. Trade-in values will vary based on the condition, year, and configuration of your eligible trade-in device. Not all devices are eligible for credit. You must be at least 18 years old to be eligible to trade in for credit or for an Apple Gift Card. Trade-in value may be applied toward qualifying new device purchase, or added to an Apple Gift Card. Actual value awarded is based on receipt of a qualifying device matching the description provided when estimate was made. Sales tax may be assessed on full value of a new device purchase. In-store trade-in requires presentation of a valid photo ID (local law may require saving this information). Offer may not be available in all stores, and may vary between in-store and online trade-in. Some stores may have additional requirements. Apple or its trade-in partners reserve the right to refuse or limit quantity of any trade-in transaction for any reason. More details are available from Apple’s trade-in partner for trade-in and recycling of eligible devices. Restrictions and limitations may apply."
+    },
+    {
+      "id": 2,
+      "p": "Apple Vision Pro has not been authorized as required by the rules of the Federal Communications Commission. This device is not, and may not be, offered for sale or lease, or sold or leased, until authorization is obtained."
+    },
+    {
+      "id": 3,
+      "p": "Apple Vision Pro will be available early next year on apple.com and at Apple retail stores in the U.S."
+    },
+    {
+      "id": 4,
+      "p": "To access and use all Apple Card features and products available only to Apple Card users, you must add Apple Card to Wallet on an iPhone or iPad that supports and has the latest version of iOS or iPadOS. Apple Card is subject to credit approval, available only for qualifying applicants in the United States, and issued by Goldman Sachs Bank USA, Salt Lake City Branch."
+    },
+    {
+      "id": 5,
+      "p": "If you reside in the U.S. territories, please call Goldman Sachs at 877-255-5923 with questions about Apple Card."
+    },
+    {
+      "id": 6,
+      "p": "Learn more about how Apple Card applications are evaluated at support.apple.com/kb/HT209218."
+    },
+    { "id": 7, "p": "A subscription is required for Apple TV+." }
+  ],
+  "footernav": [
+    {
+      "id": 1,
+      "h3": "Shop and Learn",
+      "link1": "Shop and Learn",
+      "link2": "Mac",
+      "link3": "iPad",
+      "link4": "iPhone",
+      "link5": "Watch",
+      "link6": "Vision",
+      "link7": "AirPods",
+      "link8": "TV & Home",
+      "link9": "AirTag",
+      "link10": "Accessories",
+      "link11": "Gift Cards"
+    },
+    {
+      "id": 2,
+      "h3": "Apple Wallet",
+      "link1": "Wallet",
+      "link2": "Apple Card",
+      "link3": "Apple Pay",
+      "link4": "Apple Cash",
+      "link5": "",
+      "link6": "",
+      "link7": "",
+      "link8": "",
+      "link9": "",
+      "link10": "",
+      "link11": ""
+    },
+    {
+      "id": 3,
+      "h3": "Account",
+      "link1": "Manage Your Apple ID",
+      "link2": "Apple Store Account",
+      "link3": "iCloud.com",
+      "link4": "",
+      "link5": "",
+      "link6": "",
+      "link7": "",
+      "link8": "",
+      "link9": "",
+      "link10": "",
+      "link11": ""
+    },
+    {
+      "id": 4,
+      "h3": "Entertainment",
+      "link1": "Apple One",
+      "link2": "Apple TV+",
+      "link3": "Apple Music",
+      "link4": "Apple Arcade",
+      "link5": "Apple Fitness+",
+      "link6": "Apple News+",
+      "link7": "Apple Podcasts",
+      "link8": "App Store",
+      "link9": "AirTag",
+      "link10": "",
+      "link11": ""
+    },
+    {
+      "id": 5,
+      "h3": "Shop and Learn",
+      "link1": "Shop and Learn",
+      "link2": "Mac",
+      "link3": "iPad",
+      "link4": "iPhone",
+      "link5": "Watch",
+      "link6": "Vision",
+      "link7": "AirPods",
+      "link8": "TV & Home",
+      "link9": "AirTag",
+      "link10": "Accessories",
+      "link11": "Gift Cards"
+    },
+    {
+      "id": 6,
+      "h3": "For Business",
+      "link1": "Apple and Business",
+      "link2": "Shop for Business",
+      "link3": "",
+      "link4": "",
+      "link5": "",
+      "link6": "",
+      "link7": "",
+      "link8": "",
+      "link9": "",
+      "link10": "",
+      "link11": ""
+    },
+    {
+      "id": 7,
+      "h3": "For Education",
+      "link1": "Apple and Education",
+      "link2": "Shop for K-12",
+      "link3": "Shop for College",
+      "link4": "",
+      "link5": "",
+      "link6": "",
+      "link7": "",
+      "link8": "",
+      "link9": "",
+      "link10": "",
+      "link11": ""
+    },
+    {
+      "id": 8,
+      "h3": "For Healthcare",
+      "link1": "Shop and Learn",
+      "link2": "Mac",
+      "link3": "iPad",
+      "link4": "",
+      "link5": "",
+      "link6": "",
+      "link7": "",
+      "link8": "",
+      "link9": "",
+      "link10": "",
+      "link11": ""
+    },
+    {
+      "id": 9,
+      "h3": "For Government",
+      "link1": "Shop for Government",
+      "link2": "Shop for Veterans and Military",
+      "link3": "",
+      "link4": "",
+      "link5": "",
+      "link6": "",
+      "link7": "",
+      "link8": "",
+      "link9": "",
+      "link10": "",
+      "link11": ""
+    },
+    {
+      "id": 10,
+      "h3": "Apple Values",
+      "link1": "Shop and Learn",
+      "link2": "Mac",
+      "link3": "iPad",
+      "link4": "iPhone",
+      "link5": "Watch",
+      "link6": "Vision",
+      "link7": "AirPods",
+      "link8": "",
+      "link9": "",
+      "link10": "",
+      "link11": ""
+    },
+    {
+      "id": 11,
+      "h3": "About Apple",
+      "link1": "Newsroom",
+      "link2": "Apple Leadership",
+      "link3": "Career Opportunities",
+      "link4": "Investors",
+      "link5": "Ethics & Compliance",
+      "link6": "Events",
+      "link7": "Contact Apple",
+      "link8": "",
+      "link9": "",
+      "link10": "",
+      "link11": ""
+    }
+  ]
+}

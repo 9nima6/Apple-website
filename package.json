@@ -1,0 +1,28 @@
+{
+  "name": "apple",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "server": "json-server --watch db.json --port 3000",
+    "tailwind": "npx tailwindcss -i ./src/index.css -o ./css/main.css --watch --minify",
+    "sass": "node-sass -w scss/slider.scss -o css/ -r --output-style compressed"
+  },
+  "devDependencies": {
+    "autoprefixer": "^10.4.16",
+    "postcss": "^8.4.31",
+    "tailwindcss": "^3.3.3",
+    "vite": "^4.4.5"
+  },
+  "dependencies": {
+    "jquery": "^3.7.1",
+    "json-server": "^0.17.4",
+    "material-icons": "^1.13.12",
+    "node-sass": "^9.0.0",
+    "sass": "^1.68.0",
+    "tw-elements": "^1.0.0"
+  }
+}

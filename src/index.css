@@ -1,0 +1,45 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+    :root{
+        --bgMenu: rgba(251, 251, 253, .8);
+        --bgSubMenu: rgb(251, 251, 253);
+        --white: rgb(255, 255, 255);
+        --menuText: #000000cc;
+        --black: #000000;
+        --test:#ff0000;
+        --headlinewhite:rgb(245, 245, 247);
+        --headlineblack:rgb(29 29 31);
+        --bluelink:rgb(41, 151, 255);
+        --sliderbut:#1d1d1f;
+        --buthov:#E7E7E7;
+        --footertext:#6e6e73;
+        --footerborder:rgb(210 210 215);
+        --footernavtitle:#414146;
+    }
+}
+@layer components{
+    /* menu */
+    .menua{
+        @apply py-2.5 px-2 block text-xs font-regular font-normal tracking-[-.01em] text-menuText group-hover:text-black transition-all duration-300
+    };
+    .submenu{
+        @apply absolute w-full h-screen left-0  hidden backdrop-saturate-[180%]
+    };
+    .white{
+        @apply w-full absolute top-0 left-0 max-h-[70%] bg-bgSubMenu flex justify-start items-start gap-20 xl:pl-[275px] lg:pl-[200px] pl-[15px] py-8 pb-16
+    };
+    .menuul{
+        @apply list-none flex flex-col justify-start items-start gap-2
+    };
+    .submenua{
+        @apply text-menuText hover:text-black font-semibold tracking-[-.01em]
+    };
+    .empty{
+        @apply w-full absolute min-h-[300px] bottom-0 left-0 
+    };
+    /* first 3 images */
+
+}

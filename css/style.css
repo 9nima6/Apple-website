@@ -1,0 +1,91 @@
+/* .submenu{
+    display: none;
+} */
+
+/* li.slidedown:hover div.submenu{
+    height: calc(100vh - 44px);
+} */
+.menuul li:nth-of-type(1) a {
+  font-size: 12px;
+  margin-bottom: 20px;
+  line-height: 1.3333733333;
+  font-weight: 400;
+  letter-spacing: -0.01em;
+  font-family: "semiBold";
+  color: #0000008b;
+  cursor: default;
+}
+
+.submenu {
+  backdrop-filter: blur(5px);
+}
+
+div#firstproducts div:nth-of-type(2) h1,
+div#firstproducts div:nth-of-type(2) p {
+  color: var(--headlineblack);
+}
+
+div#gridimages div:nth-of-type(2) div {
+  transform: translateY(370px);
+}
+div#gridimages > div:nth-of-type(1) h1,
+div#gridimages > div:nth-of-type(1) p {
+  color: #fff !important;
+}
+div#gridimages > div:nth-of-type(4) h1,
+div#gridimages > div:nth-of-type(4) p {
+  color: #fff !important;
+}
+
+/* slider */
+
+/* accordion */
+.accordion {
+  width: 100%;
+  margin: 0 15px;
+}
+.accordion .accordion-content {
+  margin: 10px 0;
+  border-bottom: 1px solid var(--footerborder);
+  overflow: hidden;
+}
+
+.accordion-content.open {
+  padding-bottom: 10px;
+}
+.accordion-content header {
+  display: flex;
+  min-height: 30px;
+  cursor: pointer;
+  align-items: center;
+  justify-content: space-between;
+  transition: all 0.2s linear;
+}
+.accordion-content.open header {
+  min-height: 35px;
+}
+.accordion-content header .title {
+  font-size: 12px;
+  font-family: var(--semiBold);
+  font-weight: 500;
+  color: var(--headlineblack);
+}
+.accordion-content header i {
+  font-size: 12px;
+  color: var(--headlineblack);
+  font-family: var(--semiBold);
+}
+.accordion-content .description {
+  height: 0;
+  font-size: 12px;
+  color: var(--headlineblack);
+  font-weight: 400;
+  padding: 0 15px;
+  transition: all 0.2s linear;
+  display: flex;
+  flex-direction: column;
+  gap: 14px;
+}
+.accordion-content .description a:hover{
+  text-decoration: underline;
+}
